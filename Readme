@@ -25,3 +25,7 @@ Is: an assistant, document companion, planner, and lightweight
 workflow tool.
 Is not (at launch): an autonomous agent with unrestricted access
 to a user’s phone, accounts, messages, or money.
+
+Trust principle: show what will happen, request permission
+before external actions, and let the user review, edit, undo, or
+delete their data.
