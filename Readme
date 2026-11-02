@@ -29,3 +29,9 @@ to a user’s phone, accounts, messages, or money.
 Trust principle: show what will happen, request permission
 before external actions, and let the user review, edit, undo, or
 delete their data.
+
+Problem to solve
+People switch between chatbots, notes, calendars, PDF readers, task
+apps, and career resources. They lose context and repeatedly explain
+their goals. NexusAI aims to bring a small number of high-frequency
+tasks into one coherent experience.
