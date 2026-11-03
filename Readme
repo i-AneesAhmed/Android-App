@@ -77,3 +77,16 @@ Begin with Pakistan, test English and Urdu/Roman Urdu usability, and
 then expand based on actual retention and support capacity. Do not
 assume all users want the same language or price. Measure demand before
 adding localization.
+
+User personas
+Persona Main job to be done First feature to win
+them
+
+University student Understand material and PDF Q&A + study planner
+stay organized
+
+Freelancer Turn a client brief Brief-to-task workflow
+into deliverables
+
+Graduate/job seeker Prepare career CV and application
+documents workspace
