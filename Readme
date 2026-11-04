@@ -90,3 +90,24 @@ into deliverables
 
 Graduate/job seeker Prepare career CV and application
 documents workspace
+
+3. Product strategy: build a wedge, then expand
+
+The long-term vision is broad, but the first release must be small.
+
+MVP: the first useful product
+
+Build only these five user journeys:
+
+1.  Sign up and onboarding: explain value, collect only essential
+    preferences, and allow guest/demo exploration if feasible.
+2.  AI chat: text conversation with a clear usage limit and
+    conversation history.
+3.  Document assistant: upload a supported PDF, ask questions about
+    it, and receive answers with page/section references where
+    technically possible.
+4.  Action cards: convert an AI response into a task, checklist,
+    study plan, or reminder after user confirmation.
+5.  Personal workspace: view, edit, complete, export, and delete
+    saved tasks and plans.
+
