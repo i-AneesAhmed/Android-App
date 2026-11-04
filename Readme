@@ -111,3 +111,14 @@ Build only these five user journeys:
 5.  Personal workspace: view, edit, complete, export, and delete
     saved tasks and plans.
 
+Later releases
+
+-   Voice input and spoken responses.
+-   Urdu and Roman Urdu quality improvements.
+-   Calendar integration, only after explicit permission and a clear
+    consent screen.
+-   Image understanding and OCR.
+-   Personal knowledge search across user-approved documents.
+-   Freelancer and founder templates.
+-   Team workspace and shared projects.
+-   Carefully scoped integrations with third-party services.
