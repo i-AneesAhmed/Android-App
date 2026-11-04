@@ -122,3 +122,13 @@ Later releases
 -   Freelancer and founder templates.
 -   Team workspace and shared projects.
 -   Carefully scoped integrations with third-party services.
+
+Explicitly out of scope for MVP
+
+-   Sending emails or messages automatically.
+-   Making purchases, payments, financial decisions, or bookings.
+-   Reading all phone data or notifications.
+-   Unrestricted background monitoring.
+-   Training models on private user documents by default.
+-   Promising perfect factual accuracy or guaranteed academic/career
+    outcomes.
