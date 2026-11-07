@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nexusai.workspace.app-mergeDebugResources-55:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TALHA COMPUTER\\.gradle\\caches\\8.11.1\\transforms\\a98a4e61faa8ab916b708c68d4d23c34\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

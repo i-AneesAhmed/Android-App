@@ -1,0 +1,59 @@
+com.nexusai.workspace.app-foundation-layout-release-0 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\02c2a7b393a094b16b3a5ac885e598f3\transformed\foundation-layout-release\res
+com.nexusai.workspace.app-room-ktx-2.6.1-1 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\20fc6bc0e79cd9b7f5448ffb3e2decc7\transformed\room-ktx-2.6.1\res
+com.nexusai.workspace.app-material-icons-extended-release-2 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\255cdfba1c2634cf83de958699e1f0b4\transformed\material-icons-extended-release\res
+com.nexusai.workspace.app-material-icons-core-release-3 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\29b6d42a98bc9bbe5e03a9fb6779934a\transformed\material-icons-core-release\res
+com.nexusai.workspace.app-annotation-experimental-1.4.0-4 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\2cc29e96dca26f5967f139b9e9f8fc3c\transformed\annotation-experimental-1.4.0\res
+com.nexusai.workspace.app-startup-runtime-1.1.1-5 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\3c344812c0794fd5323f31caaff53f54\transformed\startup-runtime-1.1.1\res
+com.nexusai.workspace.app-ui-tooling-preview-release-6 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\3c5c5bd2a1c3e44a862b61628325686c\transformed\ui-tooling-preview-release\res
+com.nexusai.workspace.app-activity-1.8.2-7 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\3eead953742b72ae3289c2e2e7dcdf97\transformed\activity-1.8.2\res
+com.nexusai.workspace.app-ui-tooling-data-release-8 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\43ea8f60ceda3341f915b7df20ff5f36\transformed\ui-tooling-data-release\res
+com.nexusai.workspace.app-core-runtime-2.2.0-9 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\43eab53f8654a64d22af618d8ffa6fe6\transformed\core-runtime-2.2.0\res
+com.nexusai.workspace.app-profileinstaller-1.3.0-10 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\4662ba7eea38d94f67e9c81c4c1a1819\transformed\profileinstaller-1.3.0\res
+com.nexusai.workspace.app-animation-core-release-11 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\4cc0fc7af844af3e18b9696e27f60c9a\transformed\animation-core-release\res
+com.nexusai.workspace.app-runtime-release-12 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\4ebecf7d39a5452393b2e0bdcd3813ff\transformed\runtime-release\res
+com.nexusai.workspace.app-material-release-13 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\528d67b6a1cdad94d612c4b4c3645618\transformed\material-release\res
+com.nexusai.workspace.app-datastore-1.0.0-14 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\5627138701fe650ce81f4d65fad2114c\transformed\datastore-1.0.0\res
+com.nexusai.workspace.app-ui-graphics-release-15 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\577c5c0c42a4cd333b65d76c17a353f0\transformed\ui-graphics-release\res
+com.nexusai.workspace.app-material-ripple-release-16 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\59ef48508fbee442ceab6cb5c19c2993\transformed\material-ripple-release\res
+com.nexusai.workspace.app-lifecycle-runtime-ktx-2.7.0-17 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\64a44ddcd4ea02dbabef0001259481eb\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.nexusai.workspace.app-ui-tooling-release-18 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\6586a006271669e5bc84bd29560e8583\transformed\ui-tooling-release\res
+com.nexusai.workspace.app-navigation-common-2.7.7-19 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\65c2d5f9a38f26ef0745af94f176ef03\transformed\navigation-common-2.7.7\res
+com.nexusai.workspace.app-lifecycle-viewmodel-savedstate-2.7.0-20 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\68606640f95a69c1d02e007a975592a9\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.nexusai.workspace.app-lifecycle-viewmodel-compose-2.7.0-21 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\7035a710812de0f3c05e19edab1380b5\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.nexusai.workspace.app-ui-geometry-release-22 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\70bd0c43ec085c7fcb67beb83fc729eb\transformed\ui-geometry-release\res
+com.nexusai.workspace.app-navigation-runtime-2.7.7-23 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\75bfecbcbbd7a089ac5422695d634944\transformed\navigation-runtime-2.7.7\res
+com.nexusai.workspace.app-activity-compose-1.8.2-24 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\7663128f2c2ce95cc383e8f4ad7443f4\transformed\activity-compose-1.8.2\res
+com.nexusai.workspace.app-ui-text-release-25 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\7eb3cbe21bd42975b0227741cffcd325\transformed\ui-text-release\res
+com.nexusai.workspace.app-ui-release-26 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\7fd105c11d8dac2eab548e4bde5ed15a\transformed\ui-release\res
+com.nexusai.workspace.app-lifecycle-runtime-2.7.0-27 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\83272c734712fb5a603fd2b3ae2f76c7\transformed\lifecycle-runtime-2.7.0\res
+com.nexusai.workspace.app-animation-release-28 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\83535b631b2110b336b4bd23bf36e49e\transformed\animation-release\res
+com.nexusai.workspace.app-savedstate-1.2.1-29 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\88b71bd548e90d87a522bd6f6ff23a13\transformed\savedstate-1.2.1\res
+com.nexusai.workspace.app-ui-util-release-30 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\a6db8a2995695740d82e8a4a03e00f71\transformed\ui-util-release\res
+com.nexusai.workspace.app-core-ktx-1.12.0-31 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\a8f57ee5dde415e91f6b27febfbdcc24\transformed\core-ktx-1.12.0\res
+com.nexusai.workspace.app-core-1.12.0-32 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\a98a4e61faa8ab916b708c68d4d23c34\transformed\core-1.12.0\res
+com.nexusai.workspace.app-navigation-compose-2.7.7-33 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\ad1b25efd029246c97eb76ae43361765\transformed\navigation-compose-2.7.7\res
+com.nexusai.workspace.app-sqlite-2.4.0-34 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\b1354bb5bc009bf747c8a6e7b8040525\transformed\sqlite-2.4.0\res
+com.nexusai.workspace.app-ui-unit-release-35 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\b49222cf5ba5dd2d74fded818fb8facd\transformed\ui-unit-release\res
+com.nexusai.workspace.app-emoji2-1.3.0-36 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\b876432d53470d5d04e0e9fc1fa08e7a\transformed\emoji2-1.3.0\res
+com.nexusai.workspace.app-material3-release-37 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\bdf4f070652c060451dd800d21baff4d\transformed\material3-release\res
+com.nexusai.workspace.app-activity-ktx-1.8.2-38 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\c220cd6d67ea5c795697db2c83d58a0a\transformed\activity-ktx-1.8.2\res
+com.nexusai.workspace.app-ui-test-manifest-1.6.5-39 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\cdc2c7a44e77fd43ba46026c9a1ab754\transformed\ui-test-manifest-1.6.5\res
+com.nexusai.workspace.app-navigation-runtime-ktx-2.7.7-40 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\cf222cec264ed375f063431e5a50c1cd\transformed\navigation-runtime-ktx-2.7.7\res
+com.nexusai.workspace.app-room-runtime-2.6.1-41 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\d9110779c2138edd6e88ba668dba1d10\transformed\room-runtime-2.6.1\res
+com.nexusai.workspace.app-lifecycle-viewmodel-2.7.0-42 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\e7c3572ef4ef0abe208cdaf221e89f4d\transformed\lifecycle-viewmodel-2.7.0\res
+com.nexusai.workspace.app-datastore-preferences-1.0.0-43 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\ea5e5bc66a425f3c6f720476bf08affd\transformed\datastore-preferences-1.0.0\res
+com.nexusai.workspace.app-lifecycle-viewmodel-ktx-2.7.0-44 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\ec3c313621c43800fe9f1a20461de032\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.nexusai.workspace.app-sqlite-framework-2.4.0-45 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\ec71fe3cb675b2a071f65c6b46ba64db\transformed\sqlite-framework-2.4.0\res
+com.nexusai.workspace.app-lifecycle-livedata-core-2.7.0-46 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\edad21f9fc9fd4fbb7c2045c0addb191\transformed\lifecycle-livedata-core-2.7.0\res
+com.nexusai.workspace.app-savedstate-ktx-1.2.1-47 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\f1490a1765c1a3e8b159cf5a1dd7dab7\transformed\savedstate-ktx-1.2.1\res
+com.nexusai.workspace.app-navigation-common-ktx-2.7.7-48 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\f183417c60a97d153bc05cacbdc1da8c\transformed\navigation-common-ktx-2.7.7\res
+com.nexusai.workspace.app-lifecycle-process-2.7.0-49 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\f422f021aa4b23e4944fa75a1a653664\transformed\lifecycle-process-2.7.0\res
+com.nexusai.workspace.app-customview-poolingcontainer-1.0.0-50 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\fa2de048ca94dba538b26bd3a4f35dc5\transformed\customview-poolingcontainer-1.0.0\res
+com.nexusai.workspace.app-runtime-saveable-release-51 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\fb00653764321fecb6d37a650551c051\transformed\runtime-saveable-release\res
+com.nexusai.workspace.app-foundation-release-52 C:\Users\TALHA COMPUTER\.gradle\caches\8.11.1\transforms\fb60f769a1ffce05abb3fa16320a9f34\transformed\foundation-release\res
+com.nexusai.workspace.app-resValues-53 F:\Contributions_On_Github\Android-App\app\build\generated\res\resValues\debug
+com.nexusai.workspace.app-packageDebugResources-54 F:\Contributions_On_Github\Android-App\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.nexusai.workspace.app-packageDebugResources-55 F:\Contributions_On_Github\Android-App\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.nexusai.workspace.app-debug-56 F:\Contributions_On_Github\Android-App\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.nexusai.workspace.app-debug-57 F:\Contributions_On_Github\Android-App\app\src\debug\res
+com.nexusai.workspace.app-main-58 F:\Contributions_On_Github\Android-App\app\src\main\res
