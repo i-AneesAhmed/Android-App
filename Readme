@@ -207,3 +207,20 @@ Backend
 - Payments: use a compliant payment provider for each target
   market; verify store billing requirements before selling digital
   features inside the Android app
+
+AI layer
+Create a provider-independent service interface so the app is not locked
+to one model vendor.
+- Start with one capable hosted LLM API.
+- Use a smaller/cheaper model for simple classification or formatting
+  only after quality testing.
+- Add retrieval-augmented generation (RAG) for document Q&A.
+- Use embeddings only for search/retrieval needs.
+- Add prompt templates, output schemas, timeouts, retries, rate
+  limits, and token budgets.
+- Evaluate responses against a fixed test set before changing models.
+- Record model/version and cost metadata, not unnecessary sensitive
+  content.
+- Never trust instructions found inside uploaded documents; treat them
+  as untrusted content.
+High-level architecture
