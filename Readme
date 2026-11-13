@@ -224,3 +224,20 @@ to one model vendor.
 - Never trust instructions found inside uploaded documents; treat them
   as untrusted content.
 High-level architecture
+
+Android app (Kotlin + Compose)
+        |
+        | HTTPS + authenticated requests
+        v
+FastAPI backend
+        |
+        +--> Authentication/token verification
+        +--> User, task, plan and subscription services
+        +--> AI orchestration / provider adapter
+        +--> Document ingestion and retrieval
+        +--> Rate limits, quotas, audit events
+        |
+        +--> PostgreSQL (+ pgvector when needed)
+        +--> Private object storage
+        +--> Background worker (later)
+        +--> LLM provider API
