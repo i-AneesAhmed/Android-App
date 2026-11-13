@@ -142,3 +142,13 @@ AI chat
   information.
 - Provide regenerate, copy, delete, and report-feedback controls.
 - Apply per-user rate limits and cost controls on the server.
+
+Document assistant
+- Clearly list supported file formats and size limits.
+- Validate file type and size on both client and server.
+- Parse documents securely; reject malformed or unsupported files.
+- Keep document access private to the owner.
+- Ground answers in the uploaded document and indicate when the answer
+  is not present.
+- Allow users to delete a document and its derived chunks/indexes.
+- Never expose one user's document to another user.
