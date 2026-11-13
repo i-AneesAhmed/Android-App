@@ -158,3 +158,17 @@ Tasks and plans
 - AI-generated actions are previews until the user confirms.
 - Store due date/time with an explicit timezone.
 - Notifications are opt-in and can be disabled.
+
+Privacy and safety
+- Plain-language privacy notice and terms before account creation.
+- Ask only for data needed for a feature.
+- Provide account/data deletion and document deletion workflows.
+- Encrypt traffic in transit; apply appropriate encryption and access
+  controls at rest.
+- Do not put API secrets in the Android app.
+- Do not log raw private prompts/documents unnecessarily.
+- Define retention periods and deletion behavior before public launch.
+- Do not use user content for model training unless there is a
+  separate, informed opt-in and a lawful basis.
+- Add abuse prevention, prompt-injection defenses for retrieved
+  documents, and safeguards for harmful or high-stakes requests.
