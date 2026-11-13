@@ -172,3 +172,22 @@ Privacy and safety
   separate, informed opt-in and a lawful basis.
 - Add abuse prevention, prompt-injection defenses for retrieved
   documents, and safeguards for harmful or high-stakes requests.
+
+5. Recommended technology architecture
+Choose boring, maintainable technology. The product's differentiation is
+user experience and workflows, not the number of frameworks.
+Android
+- Language: Kotlin
+- UI: Jetpack Compose + Material 3
+- Architecture: MVVM or a clean, modular presentation/domain/data
+  structure
+- Async work: Kotlin Coroutines and Flow
+- Networking: Retrofit or Ktor client
+- Local storage: Room for appropriate cached/offline data;
+  DataStore for preferences
+- Navigation: Navigation Compose
+- Dependency injection: Hilt or a simpler manual approach for a
+  small MVP
+- Notifications: Firebase Cloud Messaging where appropriate
+- Crash reporting/analytics: privacy-conscious, consent-aware
+  tools
