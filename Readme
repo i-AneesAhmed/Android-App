@@ -241,3 +241,10 @@ FastAPI backend
         +--> Private object storage
         +--> Background worker (later)
         +--> LLM provider API
+
+Important: The Android client must call your backend for model
+requests. Keep provider API keys and privileged credentials on the
+server, never in APK source, BuildConfig, remote config, or Git.
+
+6. Repository structure
+A practical monorepo for two founders:
