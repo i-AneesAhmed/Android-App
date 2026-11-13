@@ -152,3 +152,9 @@ Document assistant
   is not present.
 - Allow users to delete a document and its derived chunks/indexes.
 - Never expose one user's document to another user.
+
+Tasks and plans
+- User can create, edit, complete, and delete an item.
+- AI-generated actions are previews until the user confirms.
+- Store due date/time with an explicit timezone.
+- Notifications are opt-in and can be disabled.
