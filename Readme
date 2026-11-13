@@ -248,3 +248,38 @@ server, never in APK source, BuildConfig, remote config, or Git.
 
 6. Repository structure
 A practical monorepo for two founders:
+
+nexusai/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── .env.example
+├── docs/
+│   ├── PRODUCT_REQUIREMENTS.md
+│   ├── USER_PERSONAS.md
+│   ├── ARCHITECTURE.md
+│   ├── API_CONTRACT.md
+│   ├── PRIVACY_AND_SECURITY.md
+│   ├── QA_TEST_PLAN.md
+│   ├── RELEASE_CHECKLIST.md
+│   └── DECISIONS/
+├── android/
+│   ├── app/
+│   └── ... Android Studio project files
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── api/
+│   │   ├── core/
+│   │   ├── models/
+│   │   ├── schemas/
+│   │   ├── services/
+│   │   └── repositories/
+│   ├── tests/
+│   ├── requirements.txt
+│   └── Dockerfile
+├── infrastructure/
+│   ├── local/
+│   └── deployment/
+└── .github/
+    └── workflows/
