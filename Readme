@@ -132,3 +132,13 @@ Explicitly out of scope for MVP
 -   Training models on private user documents by default.
 -   Promising perfect factual accuracy or guaranteed academic/career
     outcomes.
+
+4. Product requirements and acceptance criteria
+AI chat
+- User can send text and receive a streamed or clearly loading
+  response.
+- Show errors and retry options without duplicating user messages.
+- Show model limitations and encourage verification for high-stakes
+  information.
+- Provide regenerate, copy, delete, and report-feedback controls.
+- Apply per-user rate limits and cost controls on the server.
