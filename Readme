@@ -191,3 +191,19 @@ Android
 - Notifications: Firebase Cloud Messaging where appropriate
 - Crash reporting/analytics: privacy-conscious, consent-aware
   tools
+Backend
+- Language/API: Python + FastAPI
+- Validation: Pydantic
+- Database: PostgreSQL for users, plans, tasks, subscriptions, and
+  audit metadata
+- Vector search: add pgvector or a managed vector store only when
+  document retrieval needs it
+- File storage: private object storage with signed, short-lived
+  access URLs
+- Background jobs: add a queue/worker for document processing when
+  synchronous requests become unreliable
+- Authentication: Firebase Authentication or another established
+  identity provider; verify tokens on the backend
+- Payments: use a compliant payment provider for each target
+  market; verify store billing requirements before selling digital
+  features inside the Android app
